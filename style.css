@@ -79,7 +79,7 @@
     display: none;
   }
   input:checked + label {
-    width: 800px;
+    width: 700px;
   }
   input:checked + label .desc {
     opacity: 1 !important;
